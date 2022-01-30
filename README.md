@@ -5,6 +5,14 @@
 ## Description
 ***
 
+**Built**
+
+* HTML
+* CSS
+* BootStrap
+* jQuery
+* Moment.js
+
 **User Story**
 
 AS AN employee with a busy schedule
@@ -103,13 +111,13 @@ Satisfies all of the above acceptance criteria plus the following:
  
 1. Click on the link to the SuperWorkDayScheduler <>
   
-2.   
+2. Check the time slot to add item (event, to-do, etc.)  
   
-3.  
+3. Type in item > click save 
 
-4. 
+4. Item stored within Local Storage and visible on page 
 
-5.  
+5. Click Clear to clear all items visible 
 
 ## Credits
  
