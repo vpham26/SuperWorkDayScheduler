@@ -107,11 +107,11 @@ Satisfies all of the above acceptance criteria plus the following:
 
 5. To launch URL, select Settings tab, scroll down GitHub page's sections to select Source then select main branch as source.
 
-6. Navigate to <your-github-username>github.io/your-repo-name> and will make the repo live. For this project SuperWorkDayScheduler, the URL will be <>
+6. Navigate to <your-github-username>github.io/your-repo-name> and will make the repo live. For this project SuperWorkDayScheduler, the URL will be <https://vpham26.github.io/SuperWorkDayScheduler/>
  
 ## Usage 
  
-1. Click on the link to the SuperWorkDayScheduler <>
+1. Click on the link to the SuperWorkDayScheduler <https://vpham26.github.io/SuperWorkDayScheduler/>
   
 2. Check the time slot to add item (event, to-do, etc.)  
   
