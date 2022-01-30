@@ -85,6 +85,8 @@ Satisfies all of the above acceptance criteria plus the following:
 
 **Mock-Up**
 
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/78709516/151686904-dbe5e746-9113-4bb5-9ea0-2dae20152b12.gif)
+
 
 ## Table of Contents (Optional)
 
